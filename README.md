@@ -1,2 +1,3 @@
-# student-portal-demo
-basic idea for a student portal application
+NAME : K.RUCHITHA
+COLLEGE : ADITYA DEGREE COLLEGE
+SUC No : 2360530322
